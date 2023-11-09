@@ -43,10 +43,11 @@ body {
   border-radius: 50%;
   margin-top: 40px;
   transition: all 1s ease;
+  cursor: pointer;
 }
 
-.selected {
-  border: 2px solid black;
+.color-circle.selected {
+  border: 3px solid black;
 }
 
 /* colors */
